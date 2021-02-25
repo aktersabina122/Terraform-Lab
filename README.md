@@ -1,5 +1,8 @@
 # Terraform-Lab
 
+<img width="587" alt="Outlook png" src="https://user-images.githubusercontent.com/33559730/109196018-30dd1a00-7769-11eb-86e0-9c753c7a3e3d.PNG">
+
+
 
 
 Lab 1 and 2: 
