@@ -41,18 +41,18 @@ In the terminal:
 <img width="436" alt="5" src="https://user-images.githubusercontent.com/33559730/109242906-f182ed80-77a9-11eb-8d40-321ce2d15001.png">
 
  
-	which terraform shows the path of terraform : /user/local/bin/terraform
+# which terraform shows the path of terraform : /user/local/bin/terraform
 Open the VS Code: In the terminal
 cd Desktop/
 
-Make a folder:
+# Make a folder:
 mkdir tfexamples
-Make a file in it: 
+# Make a file in it: 
 touch provider.tf
 
-terraform plan
-terraform init
-terraform apply
+# terraform plan
+# terraform init
+# terraform apply
 
 
 
@@ -63,9 +63,9 @@ terraform apply
 
 =====================================================================
 
-Lab 2:
+# Lab 2:
 
-How to create a subnet in AWS using Terraform?
+# How to create a subnet in AWS using Terraform?
 
 resource "aws_subnet" "subnet1" {		//Type of resource
   vpc_id     = “${aws_vpc.main.id}”        //Type of resource. Logical name.vpc id
