@@ -15,8 +15,7 @@ In the search type IAM, then select add user and give a name and select pragmati
 
 
 Step 2: Permission: Select attach existing policies directly and choose AdministratorAccess
-
-<img width="750" alt="2" src="https://user-images.githubusercontent.com/33559730/109241288-1d50a400-77a7-11eb-965c-94ded5b99c8e.png">
+<img width="776" alt="2" src="https://user-images.githubusercontent.com/33559730/109242574-5b4ec780-77a9-11eb-8342-889132200e6a.png">
 
 
  
