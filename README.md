@@ -4,6 +4,8 @@ How to create a VPC and subnet in AWS using Terraform?
 Step 1: Create an IAM 
 In the search type IAM, then select add user and give a name and select pragmatic access for secret key id and secret access key
 
+❮img src="images/1st.png" width="100" ❯
+
 
 
  
