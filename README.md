@@ -1,8 +1,8 @@
 # Terraform-Lab
-Lab 1 and 2: 
-How to create a VPC and subnet in AWS using Terraform?
+# Lab 1 and 2: 
+# How to create a VPC and subnet in AWS using Terraform?
 
-Step 1: Create an IAM 
+# Step 1: Create an IAM 
 
 In the search type IAM, then select add user and give a name and select pragmatic access for secret key id and secret access key
 
@@ -14,7 +14,7 @@ In the search type IAM, then select add user and give a name and select pragmati
 
 
 
-Step 2: Permission: Select attach existing policies directly and choose AdministratorAccess
+# Step 2: Permission: Select attach existing policies directly and choose AdministratorAccess
 <img width="776" alt="2" src="https://user-images.githubusercontent.com/33559730/109242574-5b4ec780-77a9-11eb-8342-889132200e6a.png">
 
 
@@ -22,7 +22,7 @@ Step 2: Permission: Select attach existing policies directly and choose Administ
 
 
 
-Step 3: Review and create user
+# Step 3: Review and create user
 <img width="801" alt="3" src="https://user-images.githubusercontent.com/33559730/109242702-981abe80-77a9-11eb-889f-3c54fc0ecb95.png">
 
 
@@ -30,13 +30,13 @@ Step 3: Review and create user
  
 
 
-Step 4:  Download .csv file that has Access key ID and Secret accesskey in the same computer
+# Step 4:  Download .csv file that has Access key ID and Secret accesskey in the same computer
 <img width="790" alt="4" src="https://user-images.githubusercontent.com/33559730/109242770-b97baa80-77a9-11eb-96a1-cbc25115a0bc.png">
 
 
  
 ======================================================
-In the terminal:
+# In the terminal:
 
 <img width="436" alt="5" src="https://user-images.githubusercontent.com/33559730/109242906-f182ed80-77a9-11eb-8d40-321ce2d15001.png">
 
@@ -79,11 +79,11 @@ resource "aws_subnet" "subnet1" {		//Type of resource
 Note: Then check the aws, vpc and subnet is created.
 ===========================================================
 
-Lab 3:
+# Lab 3:
 AWS S3 bucket from terraform
  
 
-In the terminal:
+# In the terminal:
 terraform apply
 
 Then it will create bucket in aws. Check aws:
@@ -151,7 +151,7 @@ For macOs:
 curl “https://awscli.amazonaws.com/AWSCLIV2.pkg” -o “AWSCLIV2.pkg”
 sudo installer -pkg AWSCLIV2.pkg -target /
 
-Terraform install for MacOs:
+# Terraform install for MacOs:
 $ brew tap hashicorp/tap
 $ brew install hashicorp/tap/terraform
 $ brew upgrade hashicorp/tap/terraform
@@ -160,7 +160,7 @@ $ terraform -install-autocomplete
 
 
 
-	Resources:
+# 	Resources:
 
 	https://medium.com/avmconsulting-blog/how-to-deploy-a-dockerised-node-js-application-on-aws-ecs-with-terraform-3e6bceb48785
 
