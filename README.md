@@ -37,6 +37,9 @@ Step 4:  Download .csv file that has Access key ID and Secret accesskey in the s
  
 ======================================================
 In the terminal:
+
+<img width="436" alt="5" src="https://user-images.githubusercontent.com/33559730/109242906-f182ed80-77a9-11eb-8d40-321ce2d15001.png">
+
  
 	which terraform shows the path of terraform : /user/local/bin/terraform
 Open the VS Code: In the terminal
