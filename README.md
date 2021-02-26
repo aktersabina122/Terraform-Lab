@@ -23,6 +23,7 @@ Step 2: Permission: Select attach existing policies directly and choose Administ
 
 
 Step 3: Review and create user
+<img width="801" alt="3" src="https://user-images.githubusercontent.com/33559730/109242702-981abe80-77a9-11eb-889f-3c54fc0ecb95.png">
 
 
 
