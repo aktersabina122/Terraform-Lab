@@ -31,6 +31,7 @@ Step 3: Review and create user
 
 
 Step 4:  Download .csv file that has Access key ID and Secret accesskey in the same computer
+<img width="790" alt="4" src="https://user-images.githubusercontent.com/33559730/109242770-b97baa80-77a9-11eb-96a1-cbc25115a0bc.png">
 
 
  
