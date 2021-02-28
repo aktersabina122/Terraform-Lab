@@ -92,6 +92,8 @@ AWS S3 bucket from terraform
 terraform apply
 
 Then it will create bucket in aws. Check aws:
+
+![3](https://user-images.githubusercontent.com/33559730/109404194-b4496780-7931-11eb-82d4-21512094f879.png)
  
 AWS Simple Storage Service (S3) provides secure, durable and highly scalable object storage. S3 is easy to use and we can store and retrieve any amount of data from anywhere on the web.
 
