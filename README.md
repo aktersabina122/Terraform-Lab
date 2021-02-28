@@ -81,6 +81,10 @@ Note: Then check the aws, vpc and subnet is created.
 
 # Lab 3:
 AWS S3 bucket from terraform
+
+
+![1](https://user-images.githubusercontent.com/33559730/109404105-f58d4780-7930-11eb-88b8-768b83f1156e.png)
+
  
 
 # In the terminal:
