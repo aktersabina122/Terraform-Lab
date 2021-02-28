@@ -76,6 +76,8 @@ resource "aws_subnet" "subnet1" {		//Type of resource
   }
 }
 
+![2](https://user-images.githubusercontent.com/33559730/109404132-3ab17980-7931-11eb-9a50-dd87d4371682.png)
+
 Note: Then check the aws, vpc and subnet is created.
 ===========================================================
 
@@ -83,7 +85,6 @@ Note: Then check the aws, vpc and subnet is created.
 AWS S3 bucket from terraform
 
 
-![1](https://user-images.githubusercontent.com/33559730/109404105-f58d4780-7930-11eb-88b8-768b83f1156e.png)
 
  
 
